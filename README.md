@@ -1,3 +1,8 @@
+Sometimes you want bullet points:
+
+* Start a line with a star
+* Profit!
+
 # Docker base images for Ruby, Python, Node.js and Meteor web apps
 
 <center><img src="http://blog.phusion.nl/wp-content/uploads/2012/07/Passenger_chair_256x256.jpg" width="196" height="196" alt="Phusion Passenger"> <img src="http://blog.phusion.nl/wp-content/uploads/2013/11/docker.png" width="233" height="196" alt="Docker"></center>
